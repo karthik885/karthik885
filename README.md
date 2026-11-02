@@ -1,6 +1,6 @@
-# Hi, I'm Sherla Karthik 👋
+# Hi, I'm  Karthik Sherla👋
 
-I’m a passionate Python Full Stack Developer and Data Scientist, actively exploring the fascinating world of Artificial Intelligence and Generative AI. My journey in tech is driven by curiosity, creativity, and a love for building impactful solutions.
+I’m a passionate AI ML Engineer, Python Full Stack Developer and Data Scientist, actively exploring the fascinating world of Artificial Intelligence and Generative AI. My journey in tech is driven by curiosity, creativity, and a love for building impactful solutions.
 
 ## 🚀 About Me
 
